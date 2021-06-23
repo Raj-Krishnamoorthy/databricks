@@ -1,4 +1,4 @@
-Databricks, apache spark core & Scala
+Databricks, apache spark  & Scala
 
 <img src="images/image1.png">
 
